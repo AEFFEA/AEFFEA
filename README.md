@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AEFFEA and my name is Furkan.
+- 👀 I’m interested in web site designing, game development and data.
+- 🌱 I’m currently learning html,css,js,c++ and python.
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me aktanfurkanemre@gmail.com
